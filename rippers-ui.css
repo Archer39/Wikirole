@@ -1,0 +1,46 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* #endregion */
+
+/* #region Chat Tab*/
+.message{
+    background-image: url(/modules/rippers-ui/ui/img/chatcard.webp) !important;
+}
+
+.window-app {
+  border: 20px solid transparent;
+  border-image-source: url(/modules/rippers-ui/ui/img/nuovo.png);
+  border-image-slice: 25 fill;
+  border-image-repeat: repeat;
+}
+
+
+
