@@ -4,4 +4,4 @@
 
 ### New Content
 
-- Add new UI elements themed for Rippers.
+- Add new UI elements themed for Wikirole.
