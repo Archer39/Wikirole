@@ -32,7 +32,7 @@
 
 /* #region Chat Tab*/
 .message{
-    background-image: url(/modules/rippers-ui/ui/img/chatcard.webp) !important;
+    background-image: url(/modules/wikirole/ui/img/chatcard.webp) !important;
 }
 
 .window-app {
