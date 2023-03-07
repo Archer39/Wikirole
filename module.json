@@ -9,9 +9,9 @@
   "bugs": "https://gitlab.com/Archer39/Wikirole/-/issues",
   "changelog": "https://gitlab.com/Archer39/Wikirole/-/releases",
   "flags": {},
-  "version": "VERSIONTEMPLATE",
-  "minimumCoreVersion": "0.5.5",
-  "compatibleCoreVersion": "0.7.10",
+  "version": "0.1",
+  "minimumCoreVersion": "2.1.4",
+  "compatibleCoreVersion": "2.1.5",
   "scripts": [
     "./wikirole.js"
   ],
