@@ -10,9 +10,9 @@
 
 #chat-message{
     background-image: url(/modules/wikirole/ui/img/gatto.webp) !important;
-    color: darkred;
+    color: white;
     font-weight: bold;
-    border-bottom-color: darkred;
+    border-bottom-color: white;
     text-decoration: underline;
 }
 
