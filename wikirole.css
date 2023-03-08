@@ -6,15 +6,6 @@
     --border-color: #372d25;
 }
 
-#pause img[src*="icons/svg/clockwork.svg"] {
-    box-sizing: border-box;
-    width: 128px;
-    height: 128px;
-    padding-left: 128px;
-
-    background-image: url("../ui/other/paused.webp");
-    animation: rotation 20s infinite linear;
-}
 
 #logo {
     left: 22px;
@@ -48,7 +39,7 @@ body.compact-mode #logo {
     width: 128%;
     height: 130%;
     top: -15%;
-    background: url(../ui/buttons/controls_btn.webp);
+    background: url(../img/logo.webp);
     background-size: 100% 100%;
     z-index: -1;
     left: -10%;
