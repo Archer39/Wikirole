@@ -2,6 +2,8 @@
 
 #ui-left #logo {
   content: url("/modules/wikirole/ui/img/logo.webp");
+  width: 130%;
+  height: 130%;
 }
 
 
