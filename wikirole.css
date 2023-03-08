@@ -1,49 +1,6 @@
-@import url('https://fonts.googleapis.com/css2?family=Kurale&display=swap');
-
-:root {
-    --main-text-light-color: #98968a;
-    --main-text-very-light-color: #d4d1c3;
-    --border-color: #372d25;
+.logo{
+    background-image: url(/modules/wikirole/ui/img/logo.webp) !important;
 }
-
-#logo {
-    left: 22px;
-}
-
-body.compact-mode #logo {
-    display: none;
-}
-
-.hide {
-    visibility: hidden;
-}
-
-.new-logo {
-    z-index: 6;
-    position: relative;
-    left: 22px;
-    width: 80px;
-    top: 10px;
-    color: var(--main-text-light-color);
-    font-family: 'Kurale', serif;
-    font-weight: 800;
-    font-size: 17px;
-    text-align: center;
-    margin-bottom: 10px;
-}
-
-.new-logo::before {
-    position: absolute;
-    content: " ";
-    width: 128%;
-    height: 130%;
-    top: -15%;
-    background: url(/modules/wikirole/ui/img/logo.webp);
-    background-size: 100% 100%;
-    z-index: -1;
-    left: -10%;
-}
-
 
 
 
