@@ -9,7 +9,7 @@
 
 
 #chat-message{
-    background-image: url(/modules/rippers-ui/ui/img/moonchat.webp) !important;
+    background-image: url(/modules/rippers-ui/ui/img/gatto.webp) !important;
 }
 
 
@@ -29,13 +29,6 @@
 /* #region Chat Tab*/
 .message{
     background-image: url(/modules/wikirole/ui/img/paper_texture.webp) !important;
-}
-
-.window-app {
-  border: 20px solid transparent;
-  border-image-source: url(/modules/wikirole/ui/img/inserisci.png);
-  border-image-slice: 25 fill;
-  border-image-repeat: repeat;
 }
 
 
