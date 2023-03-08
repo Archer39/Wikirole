@@ -1,7 +1,7 @@
 {
     "name": "wikirole",
     "title": "Wikirole",
-    "description": "UI.",
+    "description": "Interfaccia grafica personalizzata per wikirole.",
     "version": "0.6",
     "author": "Pasquale-Caos-Archer",
     "scripts": ["wikirole.js"],
