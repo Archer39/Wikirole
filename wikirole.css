@@ -1,13 +1,6 @@
-.logo{
-    background-image: url(/modules/wikirole/ui/img/logo.webp) !important;
-}
 
 
-
-
-
-#ui-left 
-#logo {
+#ui-left #logo {
   content: url("/modules/wikirole/ui/img/logo.webp");
 }
 
