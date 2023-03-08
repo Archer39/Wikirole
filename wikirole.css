@@ -75,7 +75,7 @@ body.compact-mode #logo {
 
 /* #region Chat Tab*/
 .message{
-    background-image: url(/modules/wikirole/ui/img/chatcard.webp) !important;
+    background-image: url(/modules/wikirole/ui/img/paper_texture.webp) !important;
 }
 
 .window-app {
