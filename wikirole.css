@@ -6,7 +6,10 @@
 
 
 
-
+#ui-left 
+#logo {
+  content: url("/modules/wikirole/ui/img/logo.webp");
+}
 
 
 
