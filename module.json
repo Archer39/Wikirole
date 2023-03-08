@@ -2,7 +2,7 @@
     "name": "wikirole",
     "title": "Wikirole",
     "description": "UI.",
-    "version": "0.2",
+    "version": "0.3",
     "author": "Pasquale-Caos-Archer",
     "scripts": ["wikirole.js"],
     "styles": ["wikirole.css"],
