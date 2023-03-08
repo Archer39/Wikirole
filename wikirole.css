@@ -1,3 +1,9 @@
+:root {
+    --main-text-light-color: #98968a;
+    --main-text-very-light-color: #d4d1c3;
+    --border-color: #372d25;
+}
+
 #logo {
     left: 22px;
 }
