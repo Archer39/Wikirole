@@ -33,7 +33,7 @@
 
 .window-app {
   border: 20px solid transparent;
-  border-image-source: url(/modules/wikirole/ui/img/nuovo.png);
+  border-image-source: url(/modules/wikirole/ui/img/inserisci.png);
   border-image-slice: 25 fill;
   border-image-repeat: repeat;
 }
